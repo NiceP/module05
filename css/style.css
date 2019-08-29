@@ -317,9 +317,11 @@ h2 {
 
  position: absolute;
   width: 255px;
-  height: 260px;
+  height: 245px;
   left: 0px;
+  
   border: 10px solid #ffffff;
+  border-bottom: none;
   background-color: #000000;
 }
 
