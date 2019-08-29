@@ -59,14 +59,14 @@ img {
  }
  
  .main-menu {
-   width: 478px;
+   
    margin: 0;
    padding: 0;
    float: right;
    list-style: none;
  
  }
- .main-menu a {
+ .menu-link {
   text-decoration: none;
   color:rgb(0, 0, 0);
   text-transform: uppercase;
@@ -306,7 +306,7 @@ h2 {
 
 .catalogue-products {
   position: relative;
-  height: 322px;
+  
   margin-right: 0px;
 }
 
